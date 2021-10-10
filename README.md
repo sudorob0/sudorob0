@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudoR0B0
 - 👀 I’m interested in Computer Networking, Linux, Python, and Cloud
-- 🌱 I’m currently learning Python and DEV-NET
+- 🌱 I’m currently learning Python and AWS
 - 📫 How to reach me robert87402@gmail.com
 
 <!---
