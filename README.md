@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sudoR0B0
-- 👀 I’m interested in Computer Networking, Linux, Python, and Cloud
-- 🌱 I’m currently learning Python and AWS
+- I have experiance with Python, Wired and wireless networking, and Jenkins
+- 👀 I’m interested in Linux, Terraform, Docker, and Kubernetes
+- 🌱 I’m currently learning AWS, and Java 
 
 <!---
 sudorob0/sudorob0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
