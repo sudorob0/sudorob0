@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sudoR0B0
-- I have experiance with Python, Wired/Wireless Networking, and DevOps
+- I have experiance with Python, Networking, and DevOps
 - 👀 I’m interested in Linux, Terraform, Docker, and Kubernetes
 - 🌱 I have the CCNA, AWS Solution Architect Associate and Security+ certifications. 
 
