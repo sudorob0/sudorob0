@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Robert Uhl
 - I have experiance with Python, Networking, and DevOps
 - 👀 I’m interested in Linux, Terraform, Docker, and Kubernetes
-- 🌱 I have the CCNA, AWS Solution Architect Associate and Security+ certifications. 
+- 🌱 I have a bachelors degree in computer science and the AWS Solution Architect Associate certification. 
 
 <!---
 sudorob0/sudorob0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
